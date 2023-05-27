@@ -1,0 +1,8 @@
+[package]
+org="ecommerce_sample"
+name="user_service"
+version="0.1.0"
+description="User Service"
+
+[build-options]
+observabilityIncluded = true

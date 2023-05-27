@@ -1,0 +1,21 @@
+{
+    "cartInfoTest": ["cartservice"],
+    "cartUpdateTest": ["cartservice"],
+    "cartTests": ["cartservice"],
+    "checkAvailabilityTest": ["inventoryservice"],
+    "updateSaleTest": ["inventoryservice"],
+    "salesTests": ["inventoryservice"],
+    "placeOrderTest": ["orderservice"],
+    "confirmOrderTest": ["orderservice"],
+    "orderTests": ["orderservice"],
+    "processPaymentTest": ["paymentservice"],
+    "productSvcTest": ["productservice"],
+    "productsTests": ["productservice"],
+    "paymentsTests": ["paymentservice"],
+    "getProductDetailsTest": ["productservice"],
+    "placeShipmentTest": ["shipmentservice"],
+    "shippingsTests": ["shipmentservice"],
+    "userSvcTest": ["userservice"],
+    "getUserDetailsTest": ["userservice"],
+    "usersTests": ["userservice"]
+}

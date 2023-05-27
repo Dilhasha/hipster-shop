@@ -1,0 +1,8 @@
+[package]
+org="ecommerce_sample"
+name="payment_service"
+version="0.1.0"
+description="Payment Service"
+
+[build-options]
+observabilityIncluded = true

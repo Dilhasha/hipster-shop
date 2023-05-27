@@ -1,0 +1,9 @@
+[ballerina.observe]
+metricsEnabled=false
+metricsReporter="prometheus"
+tracingEnabled=true
+tracingProvider="jaeger"
+
+[ballerinax.jaeger]
+agentHostname="localhost"  # Optional Configuration. Default value is localhost
+agentPort=4317             # Optional Configuration. Default value is 55680
